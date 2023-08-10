@@ -1,0 +1,6 @@
+name = "LocalRegistry"
+uuid = "46969c15-e807-419a-807f-3fa69f2ef89f"
+repo = "/d/Projects/Julia/LocalJuliaRegistry"
+description = "My private registry"
+
+[packages]
