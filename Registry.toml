@@ -4,3 +4,4 @@ repo = "/d/Projects/Julia/LocalJuliaRegistry"
 description = "My private registry"
 
 [packages]
+a6206385-a85b-45a1-9870-e715cb6a9b8e = { name = "RubiksCore", path = "R/RubiksCore" }
