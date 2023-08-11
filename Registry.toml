@@ -4,4 +4,3 @@ repo = "https://github.com/minhcly95/JuliaRegistry.git"
 description = "minhcly95's private registry for testing unregistered packages"
 
 [packages]
-a6206385-a85b-45a1-9870-e715cb6a9b8e = { name = "RubiksCore", path = "R/RubiksCore" }
