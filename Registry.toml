@@ -1,4 +1,4 @@
-name = "minhcly95's registry"
+name = "Minhcly95Registry"
 uuid = "46969c15-e807-419a-807f-3fa69f2ef89f"
 repo = "https://github.com/minhcly95/JuliaRegistry.git"
 description = "minhcly95's private registry for testing unregistered packages"
