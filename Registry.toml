@@ -1,6 +1,6 @@
 name = "LocalRegistry"
 uuid = "46969c15-e807-419a-807f-3fa69f2ef89f"
-repo = "git@github.com:minhcly95/JuliaPrivateRegistry.git"
+repo = "https://github.com/minhcly95/JuliaPrivateRegistry.git"
 description = "My private registry"
 
 [packages]
