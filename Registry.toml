@@ -4,6 +4,7 @@ repo = "https://github.com/minhcly95/JuliaRegistry.git"
 description = "minhcly95's private registry for testing unregistered packages"
 
 [packages]
+0d8d6bde-c220-446d-9ce6-9f4c0ad5239b = { name = "RubikKociemba", path = "R/RubikKociemba" }
 1dec3d80-0727-440a-b73c-e6a05312bbb7 = { name = "RubikView", path = "R/RubikView" }
 4f7ee846-71eb-4ef0-b8b4-b98ea9e842ee = { name = "FastPerms", path = "F/FastPerms" }
 a6206385-a85b-45a1-9870-e715cb6a9b8e = { name = "RubikCore", path = "R/RubikCore" }
